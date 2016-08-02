@@ -1,0 +1,14 @@
+body{
+  background-color: #444;
+}
+
+h1{
+  color:white;
+}
+.button{
+  color:white;
+  background-color: green;
+}
+#id{
+  border:5px white solid;
+}
